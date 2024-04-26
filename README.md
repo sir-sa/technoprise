@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm install next react react-dom
+npm install
 npm run dev
 # or
 yarn dev
